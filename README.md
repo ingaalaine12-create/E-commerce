@@ -56,15 +56,15 @@ The following structured matrix outlines the specific e-commerce inventory layou
 *Note: Visual media assets are locally preserved inside the `/images` directory of this repository.*
 
 #### 1. Homepage & Branding Banner
-![Homepage Banner](images/homepage_banner.png)
+![Homepage Banner](images/banner.png)
 *Figure 1: High-end hero element displaying the custom IAM TECH rectangular branding layout.*
 
 #### 2. Dynamic Product Page
-![Product Catalog Layout](images/product_page.png)
+![Product Catalog Layout](images/products.png)
 *Figure 2: Active inventory collection loop highlighting HTML bulleted descriptions and variant selectors.*
 
 #### 3. Contact & Cart Interface
-![Cart Page Interaction](images/cart_page.png)
+![Cart Page Interaction](images/cart.png)
 *Figure 3: Interactive cart interface displaying itemized pricing totals and checkout gateways.*
 
 ---
@@ -89,9 +89,9 @@ The following structured matrix outlines the specific e-commerce inventory layou
 ---
 
 ## Live Website Link
-[View Live Storefront Application](https://iamtech-electronics.myshopify.com)
+[View Live Storefront Application](https://q8mg0c-8y.myshopify.com/)
 
 ---
 
 ## GitHub Repository Link
-[Access Project Source Code Repository](https://github.com/username/iam-tech-ecommerce)
+[Access Project Source Code Repository](https://github.com/ingaalaine12-create/E-commerce.git)
